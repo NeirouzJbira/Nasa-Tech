@@ -10,10 +10,7 @@ During the development process, the app was fully tested using Jest and React Te
 
 You can see a live deployed version of the app [by clicking here.](https://nasa-tech-test.vercel.app/)
 
-## Screenshots
 
-![Desktop screenshot](./src/screenshots/screenshot-desktop.png)
-![Mobile screenshot](./src/screenshots/screenshot-mobile.png)
 
 ## Technologies
 
