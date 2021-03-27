@@ -8,7 +8,10 @@ The app is responsive and has been styled appropriately for both mobile and desk
 
 During the development process, the app was fully tested using Jest and React Testing Library to write unit tests, following Test-Driven Development (TDD) methodology.
 
-You can see a live deployed version of the app [by clicking here.](https://neirouzjbira.github.io/Nasa-Tech/)
+### To view
+See live website here: 
+- https://neirouzjbira.github.io/Nasa-Tech/
+ 
 
 <img src="https://github.com/NeirouzJbira/Nasa-Tech/blob/main/nasa.png">
 
